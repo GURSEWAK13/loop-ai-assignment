@@ -120,7 +120,7 @@ export default function TestPage() {
     <div className="min-h-screen bg-gray-50 p-8">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">API Test Interface</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Chitkara API Test Interface</h1>
           <p className="text-gray-600">Test the data ingestion and status endpoints</p>
         </div>
 

@@ -10,8 +10,8 @@ export default function HomePage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Data Ingestion API System</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            A robust API system for handling data ingestion requests with priority-based processing, rate limiting, and
-            real-time status tracking.
+            Chitkara University's robust API system for handling data ingestion requests with priority-based processing,
+            rate limiting, and real-time status tracking.
           </p>
         </div>
 
